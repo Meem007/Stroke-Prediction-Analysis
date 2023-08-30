@@ -1,6 +1,6 @@
 # Stroke Prediction Analysis
 
-This repository contains code for analyzing stroke prediction using various machine learning models, including a deep learning model and a logistic regression model.
+This repository contains code for analyzing stroke prediction using various machine learning models to compare, including a deep learning model and a logistic regression model.
 
 ## Introduction
 
